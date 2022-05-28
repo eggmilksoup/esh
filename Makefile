@@ -1,4 +1,4 @@
--include confing.mk
+-include config.mk
 
 esh:
 	cc main.c -o esh
