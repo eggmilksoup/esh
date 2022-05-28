@@ -7,12 +7,12 @@ This shell will be designed to be a simple interactive shell that may or may not
 
 The project's goals are as follows:
 
-	1. create a shell that reads from standard input and executes the commands given
+1. create a shell that reads from standard input and executes the commands given
 
-	2. provide simple tab completion
+2. provide simple tab completion
 
-	3. "syntax" highlighting (essentially: word is yellow if it can be completed, green if it is a command, and red if it is not).
+3. "syntax" highlighting (essentially: word is yellow if it can be completed, green if it is a command, and red if it is not).
 
-	4. vi-alike line editing using the escape key
+4. vi-alike line editing using the escape key
 
-	5. posix `sh` compliance
+5. posix `sh` compliance
